@@ -1,5 +1,5 @@
 body {
-    background: url(../images/fondo\ 2.jpg) no-repeat 0px 0px;
+    background: url(fondo2.jpg);
     background-size: cover;
 }
 
@@ -89,4 +89,5 @@ li a {
 
 .container-form .btn-enviar:hover {
     background: #229bc0;
+
 }
