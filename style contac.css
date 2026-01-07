@@ -1,6 +1,7 @@
 body {
     background: url(fondo2.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 *{
@@ -91,3 +92,4 @@ li a {
     background: #229bc0;
 
 }
+
